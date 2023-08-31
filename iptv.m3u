@@ -35,6 +35,10 @@ http://192.168.68.2:8765/bestv.php?id=cctv15hd8m/8000000
 http://192.168.68.2:8765/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 8M
 http://192.168.68.2:8765/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
+http://192.168.68.2:8765/xxtv4k.php
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV8K
+http://192.168.68.2:8765/xx8k50fps.php
 
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="TVB",無線新聞台
 http://192.168.68.2:8765/tvb.php?id=0&hq
