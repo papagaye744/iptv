@@ -35,6 +35,27 @@ http://192.168.68.2:8765/bestv.php?id=cctv15hd8m/8000000
 http://192.168.68.2:8765/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 8M
 http://192.168.68.2:8765/bestv.php?id=cctv17hd8m/8000000
+
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="TVB",無線新聞台
+http://192.168.68.2:8765/tvb.php?id=0&hq
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="TVB",無線財經·體育·資訊台
+http://192.168.68.2:8765/tvb.php?id=2&hq
+#EXTINF:-1,tvg-id="84" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="TVB",J2(源碼測試)
+https://sc2022.stream-link.org/tv2306.php?id=r01
+#EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="TVB",明珠台(源碼測試)
+https://sc2022.stream-link.org/tv2306.php?id=r02
+#EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="TVB",翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="TVB",翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h02
+
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="凤凰",凤凰中文
+http://live.0472.org/hls/fhzw.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="凤凰",凤凰资讯
+http://live.0472.org/hls/fhzx.m3u8
+#EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视电影台.png" group-title="凤凰",凤凰电影
+http://live.0472.org/hls/fhdy.m3u8
+
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 8M
 http://192.168.68.2:8765/bestv.php?id=jswshd8m/8000000
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视 8M
@@ -85,6 +106,12 @@ http://192.168.68.2:8765/bestv.php?id=ynwshd8m/8000000
 http://192.168.68.2:8765/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 8M
 http://192.168.68.2:8765/bestv.php?id=hainanwshd8m/8000000
+
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
+http://192.168.68.2:8765/bestv.php?id=dshd8m/8000000
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实 8M
+http://192.168.68.2:8765/bestv.php?id=jspdhd/4000000
+
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场 8M
 http://192.168.68.2:8765/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育 8M
@@ -99,10 +126,6 @@ http://192.168.68.2:8765/bestv.php?id=xqjx8m/8000000
 http://192.168.68.2:8765/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="其他",上视新闻 8M
 http://192.168.68.2:8765/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
-http://192.168.68.2:8765/bestv.php?id=dshd8m/8000000
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实 8M
-http://192.168.68.2:8765/bestv.php?id=jspdhd/4000000
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视 8M
 http://192.168.68.2:8765/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育 8M
