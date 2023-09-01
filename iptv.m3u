@@ -57,13 +57,13 @@ http://192.168.68.2:8765/guangzhou.php?id=shenghuo
 http://192.168.68.2:8765/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="TVB",無線財經·體育·資訊台
 http://192.168.68.2:8765/tvb.php?id=2&hq
-#EXTINF:-1,tvg-id="84" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="TVB",J2(源碼測試)
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="TVB",J2(源碼測試)
 https://sc2022.stream-link.org/tv2306.php?id=r01
-#EXTINF:-1,tvg-id="84" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="TVB",明珠台(源碼測試)
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="TVB",明珠台(源碼測試)
 https://sc2022.stream-link.org/tv2306.php?id=r02
-#EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="TVB",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="TVB",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h01
-#EXTINF:-1,tvg-id="81" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="TVB",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="TVB",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h02
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 8M
